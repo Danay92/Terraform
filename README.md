@@ -11,5 +11,4 @@ $ terraform apply
 ```
 ## License
 
-aMIT
-aaaxxx
+MIT
